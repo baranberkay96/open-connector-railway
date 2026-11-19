@@ -1,5 +1,7 @@
 # Deploy and Host OpenConnector with Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/open-connector-connect-anything?referralCode=20H68q)
+
 OpenConnector is an open-source auth gateway that connects AI agents to 1,700+ SaaS providers through MCP, HTTP, an SDK, a CLI and OpenAPI. This community template runs OpenConnector v1.10.0 with PostgreSQL, a persistent volume, encrypted credential storage and token-protected console and agent endpoints.
 
 ## About Hosting OpenConnector
